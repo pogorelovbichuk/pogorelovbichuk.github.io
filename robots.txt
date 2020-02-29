@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /errors
+Disallow: more.html
+Disallow: /assets/js
+
+Host: https://pogorelovbichuk.github.io
+
+
