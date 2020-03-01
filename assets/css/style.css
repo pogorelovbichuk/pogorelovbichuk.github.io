@@ -648,11 +648,11 @@ hr {
 .social {
     display: flex;
     justify-content: center;
-    padding: 200px 0px 0px;
+    padding: 5px 0px 0px;
 }
 
 .social__item {
-    width: 90px;
+    width: 65px;
     height: 55px;
     padding: 12px 10px;
 
